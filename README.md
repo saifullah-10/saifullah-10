@@ -1,28 +1,28 @@
-<h1 align="left">Hey 👋. Welcome To My Github.</h1>
+<h1 align="center">Hey 👋. Welcome To My Github.</h1>
 
 ###
 
 <div align="center">
-  <img height="400" src="https://i.ibb.co/09KRV9P/myGithub.jpg"  />
+  <img height="500" src="https://i.ibb.co/09KRV9P/myGithub.jpg"  />
 </div>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
 ###
 
 <p align="left">My name is Saifullah Al Rafi.<br><br>        I'm a passionate front-end developer with experience in building beautiful and functional web applications. My expertise includes HTML, CSS, JavaScript, and various front-end frameworks. I'm always eager to learn and grow, and I enjoy collaborating with others to create amazing projects.</p>
 
 ###
-<h2 align="left"> My Contribution</h2>
-###
 
-<h2 align="left">🛠️ My Skills</h2>
+<h2 align="center">🛠️ My Skills</h2>
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -50,11 +50,13 @@
 
 ###
 
-<h2 align="left">Currently Learning</h2>
+<h2 align="center">Currently Learning</h2>
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
@@ -64,16 +66,28 @@
 
 ###
 
-<h2 align="left">Contact</h2>
+<h2 align="center">Contact</h2>
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
   <a href="https://www.linkedin.com/in/saifullahalrafi/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="_al.rafi" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="alrafi8990@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/saifullah-10/saifullah-10/output/snake.svg" alt="Snake animation" />
 
 ###
