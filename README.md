@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">My name is Saifullah Al Rafi.<br><br>        I'm a passionate front-end developer with experience in building beautiful and functional web applications. My expertise includes HTML, CSS, JavaScript, and various front-end frameworks. I'm always eager to learn and grow, and I enjoy collaborating with others to create amazing projects.</p>
+<p align="left">My name is Saifullah Al Rafi.<br><br>        I'm a passionate front-end developer with experience in building beautiful and functional web applications. My expertise includes HTML, CSS, JavaScript, and various front-end frameworks. I'm always eager to learn and grow, and I enjoy collaborating with others to create amazing projects.<br><br>Contact: saifullah.bus@gmail.com</p>
 
 ###
 
@@ -79,7 +79,7 @@
   <a href="_al.rafi" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="alrafi8990@gmail.com" target="_blank">
+  <a href="saiffullah.bus@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
@@ -88,6 +88,4 @@
 
 <br clear="both">
 
-
-
-###
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saifullah-10&hide_progress=true)
