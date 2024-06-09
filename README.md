@@ -50,7 +50,7 @@
 </p>
 
 <!-- GitHub Stats -->
-![Al Rafi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=saifullah-10&theme=vue-dark&hide_border=true)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazr/github-readme-stats)
 
 <!-- Top Projects -->
 <h2 align="center">🚀 Top Projects</h2>
