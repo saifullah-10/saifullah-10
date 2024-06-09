@@ -88,4 +88,4 @@
 
 <br clear="both">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saifullah-10&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saifullah-10&hide_progress=false)
