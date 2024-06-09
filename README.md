@@ -15,27 +15,7 @@
 <p align="left">My name is Saifullah Al Rafi.<br><br>        I'm a passionate front-end developer with experience in building beautiful and functional web applications. My expertise includes HTML, CSS, JavaScript, and various front-end frameworks. I'm always eager to learn and grow, and I enjoy collaborating with others to create amazing projects.</p>
 
 ###
-
-- uses: Platane/snk@v3
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ saifullah-10 }}
-
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
-    #
-    #  supported options:
-    #  - palette:     A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake: Color of the snake
-    #  - color_dots:  Coma separated list of dots color.
-    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                 Exactly 5 colors are expected.
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
+<h2 align="left"> My Contribution</h2>
 ###
 
 <h2 align="left">🛠️ My Skills</h2>
