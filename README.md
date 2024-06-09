@@ -50,7 +50,7 @@
 </p>
 
 <!-- GitHub Stats -->
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazr/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saifullah-10)
 
 <!-- Top Projects -->
 <h2 align="center">🚀 Top Projects</h2>
